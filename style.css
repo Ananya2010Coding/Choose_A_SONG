@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-image: url("1.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    text-shadow: 5px 5px 5px darkblue;
+    color: rgb(10, 10, 59);
+    font-size: 30px;
+}
+
+.note{
+    color: white;
+    margin-top: 6px;
+}
+
+#bad_habits_div{
+    float: left;
+}
+
+#levitating_div{
+    float: right;
+}
+
+#disc_BadHabits{
+    width: 200px;
+    margin-top: 30px;
+}
+
+#disc_Levitating{
+    width: 200px;
+    margin-top: 35px;
+}
+
+#song_playing{
+    margin-right: 60px;
+    color: white;
+}
+
+#song{
+    font-size: 20px;
+    margin: 15px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 70px;
+}
